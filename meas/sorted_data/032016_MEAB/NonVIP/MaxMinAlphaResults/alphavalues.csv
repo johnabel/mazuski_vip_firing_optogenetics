@@ -1,0 +1,100 @@
+35_neuron4_before.npy,0.1,21.1666666667,20.5, 
+35_neuron4_before.npy,0.2,19.5,20.0, 
+35_neuron4_before.npy,0.3,17.1666666667,18.5, 
+35_neuron4_before.npy,0.4,15.8333333333,16.5, 
+35_neuron4_before.npy,0.5,12.8333333333,14.6666666667, 
+35_neuron4_before.npy,0.6,9.66666666667,11.0, 
+35_neuron4_before.npy,0.7,5.16666666667,9.5, 
+35_neuron4_before.npy,0.8,3.66666666667,6.66666666667, 
+35_neuron4_before.npy,0.9,1.5,1.16666666667, 
+35_neuron4_before.npy,1.0,0.0,0.0, 
+37_neuron1_before.npy,0.1,5.0,7.0, 
+37_neuron1_before.npy,0.2,4.33333333333,6.0, 
+37_neuron1_before.npy,0.3,3.5,4.33333333333, 
+37_neuron1_before.npy,0.4,3.33333333333,3.33333333333, 
+37_neuron1_before.npy,0.5,3.0,2.16666666667, 
+37_neuron1_before.npy,0.6,2.5,1.33333333333, 
+37_neuron1_before.npy,0.7,2.33333333333,0.666666666667, 
+37_neuron1_before.npy,0.8,1.66666666667,0.5, 
+37_neuron1_before.npy,0.9,0.666666666667,0.333333333333, 
+37_neuron1_before.npy,1.0,0.0,0.0, 
+51_neuron2_before.npy,0.1,8.83333333333, , 
+51_neuron2_before.npy,0.2,7.33333333333, , 
+51_neuron2_before.npy,0.3,7.16666666667, , 
+51_neuron2_before.npy,0.4,6.5, , 
+51_neuron2_before.npy,0.5,6.16666666667, , 
+51_neuron2_before.npy,0.6,5.83333333333, , 
+51_neuron2_before.npy,0.7,5.5, , 
+51_neuron2_before.npy,0.8,4.0, , 
+51_neuron2_before.npy,0.9,0.666666666667, , 
+51_neuron2_before.npy,1.0,0.0, , 
+54_neuron1_before.npy,0.1,13.1666666667,15.6666666667,21.5
+54_neuron1_before.npy,0.2,8.16666666667,8.66666666667,19.5
+54_neuron1_before.npy,0.3,6.83333333333,4.66666666667,17.5
+54_neuron1_before.npy,0.4,5.83333333333,2.5,13.5
+54_neuron1_before.npy,0.5,4.83333333333,1.5,9.83333333333
+54_neuron1_before.npy,0.6,4.5,1.5,5.83333333333
+54_neuron1_before.npy,0.7,3.5,1.5,2.33333333333
+54_neuron1_before.npy,0.8,2.66666666667,1.33333333333,1.16666666667
+54_neuron1_before.npy,0.9,1.0,1.0,0.333333333333
+54_neuron1_before.npy,1.0,0.0,0.0,0.0
+63_neuron2_before.npy,0.1,26.8333333333,25.8333333333, 
+63_neuron2_before.npy,0.2,24.8333333333,23.5, 
+63_neuron2_before.npy,0.3,22.6666666667,22.3333333333, 
+63_neuron2_before.npy,0.4,20.0,16.5, 
+63_neuron2_before.npy,0.5,16.5,13.1666666667, 
+63_neuron2_before.npy,0.6,12.5,8.66666666667, 
+63_neuron2_before.npy,0.7,8.66666666667,5.5, 
+63_neuron2_before.npy,0.8,4.33333333333,3.16666666667, 
+63_neuron2_before.npy,0.9,1.5,1.33333333333, 
+63_neuron2_before.npy,1.0,0.0,0.0, 
+63_neuron3_before.npy,0.1,25.8333333333,24.5, 
+63_neuron3_before.npy,0.2,23.8333333333,23.6666666667, 
+63_neuron3_before.npy,0.3,20.6666666667,23.5, 
+63_neuron3_before.npy,0.4,17.8333333333,22.8333333333, 
+63_neuron3_before.npy,0.5,13.3333333333,19.8333333333, 
+63_neuron3_before.npy,0.6,9.83333333333,17.1666666667, 
+63_neuron3_before.npy,0.7,4.83333333333,10.5, 
+63_neuron3_before.npy,0.8,2.0,4.5, 
+63_neuron3_before.npy,0.9,0.666666666667,1.16666666667, 
+63_neuron3_before.npy,1.0,0.0,0.0, 
+66_neuron1_before.npy,0.1,19.0,18.8333333333,20.5
+66_neuron1_before.npy,0.2,17.8333333333,17.0,19.1666666667
+66_neuron1_before.npy,0.3,15.6666666667,13.6666666667,17.3333333333
+66_neuron1_before.npy,0.4,13.5,11.0,14.1666666667
+66_neuron1_before.npy,0.5,9.5,7.0,12.8333333333
+66_neuron1_before.npy,0.6,6.83333333333,5.0,10.6666666667
+66_neuron1_before.npy,0.7,4.5,2.83333333333,8.5
+66_neuron1_before.npy,0.8,2.0,1.83333333333,5.0
+66_neuron1_before.npy,0.9,0.5,1.0,1.66666666667
+66_neuron1_before.npy,1.0,0.0,0.0,0.0
+68_neuron1_before.npy,0.1,18.0,19.3333333333,19.3333333333
+68_neuron1_before.npy,0.2,12.3333333333,16.5,18.1666666667
+68_neuron1_before.npy,0.3,10.0,13.3333333333,15.6666666667
+68_neuron1_before.npy,0.4,8.83333333333,9.66666666667,12.6666666667
+68_neuron1_before.npy,0.5,7.66666666667,6.5,9.5
+68_neuron1_before.npy,0.6,6.0,3.83333333333,5.0
+68_neuron1_before.npy,0.7,4.16666666667,2.33333333333,2.16666666667
+68_neuron1_before.npy,0.8,2.5,1.16666666667,1.16666666667
+68_neuron1_before.npy,0.9,0.5,0.666666666667,0.666666666667
+68_neuron1_before.npy,1.0,0.0,0.0,0.0
+75_neuron4_before.npy,0.1,12.6666666667,23.5, 
+75_neuron4_before.npy,0.2,9.16666666667,13.8333333333, 
+75_neuron4_before.npy,0.3,7.16666666667,11.5, 
+75_neuron4_before.npy,0.4,6.33333333333,8.66666666667, 
+75_neuron4_before.npy,0.5,5.16666666667,6.66666666667, 
+75_neuron4_before.npy,0.6,3.33333333333,4.5, 
+75_neuron4_before.npy,0.7,1.33333333333,2.33333333333, 
+75_neuron4_before.npy,0.8,0.666666666667,1.16666666667, 
+75_neuron4_before.npy,0.9,0.333333333333,0.166666666667, 
+75_neuron4_before.npy,1.0,0.0,0.0, 
+83_neuron3_before.npy,0.1,15.5,9.5, 
+83_neuron3_before.npy,0.2,11.1666666667,7.5, 
+83_neuron3_before.npy,0.3,10.1666666667,6.5, 
+83_neuron3_before.npy,0.4,9.0,5.83333333333, 
+83_neuron3_before.npy,0.5,6.83333333333,5.16666666667, 
+83_neuron3_before.npy,0.6,5.66666666667,4.16666666667, 
+83_neuron3_before.npy,0.7,4.33333333333,1.83333333333, 
+83_neuron3_before.npy,0.8,3.66666666667,1.5, 
+83_neuron3_before.npy,0.9,1.5,0.833333333333, 
+83_neuron3_before.npy,1.0,0.0,0.0, 
