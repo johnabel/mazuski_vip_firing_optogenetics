@@ -1,0 +1,6 @@
+We are excluding from analysis the mice that had 3 or fewer days of stimulation (early trials - 1 control, 1 stim).
+
+Stim : 3011606.csv
+Control : 2231603.csv
+
+Note, however, that you can still see entrainment in the stim case.
